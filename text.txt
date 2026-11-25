@@ -1,0 +1,5 @@
+Environnemnt:python -m pip install --upgrade pip
+PS C:\Users\HP\RAG-Multimodal-Agentique> Rename-Item .venv .venv_old
+PS C:\Users\HP\RAG-Multimodal-Agentique> & "$env:LOCALAPPDATA\Programs\Python\Python311\python.exe" -m venv .venv
+PS C:\Users\HP\RAG-Multimodal-Agentique> .\.venv\Scripts\Activate.ps1
+
