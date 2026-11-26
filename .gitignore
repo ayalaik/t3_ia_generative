@@ -6,4 +6,5 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
+chroma_db/
 "@ | Out-File -Encoding utf8 .gitignoreRemove-Item -Recurse -Force .git
